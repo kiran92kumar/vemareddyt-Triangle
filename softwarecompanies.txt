@@ -1,0 +1,9 @@
+infosys
+wipro
+delloite
+tcs
+accenture
+hp
+tech m
+intel
+samsung
